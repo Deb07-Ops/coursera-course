@@ -3,5 +3,5 @@
 certification: https://coursera.org/share/e43d4811b3e717a58442508eece7cede
 
 # coursera-course
-This is basically for the assignments and the website that i will be creating after completing the Coursera course
+This is basically for development of my web development skills that will help me in near future in making projects. 
 [
